@@ -6,3 +6,5 @@
 | HBB-select-mammal.fasta | hemoglobin beta subunit best hit in four mammals | 2022-10-12 | NCBI BLAST |
 | species-names.txt | names of the four species, for timetree.org | 2022-10-12 | manually entered |
 | neighbor-joining-example.dist | example distance matrix for NJ | 2019-09-25 | manually entered |
+| HBB-primate-aa-aln.fa | protein alignment for HBB in primates | 2023-10-15 | OrthoDB |
+| HBB-primate-cds-aln.fa | CDS alignment for HBB in primates, lacking silver gibbon | 2023-10-15 | ENSEMBL orthologs |
